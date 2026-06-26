@@ -9,7 +9,7 @@ This repository contains my Bachelor's thesis in Theoretical Physics completed a
 * **Affiliation:** University of Helsinki | Department of Physics, in coordination with the Department of Mathematics
 
 ## Abstract 
-This abstract was originally written in Finnish and for this Readme translated into English. (The original abstract can be found within the PDF file)
+*Note: This abstract was originally written in Finnish and for this Readme translated into English. (The original abstract can be found within the PDF file)*
 
 The study of options is essential, as options enable financial risk mitigation and facilitate a deeper understanding of financial markets. This thesis explores the fundamental nature of options and examines how they are modeled mathematically. Additionally, a computational example of a specific option is presented, alongside an analysis of how the application of the model changes when parameter estimation errors are introduced.
 
