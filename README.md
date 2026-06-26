@@ -1,5 +1,5 @@
 # B.Sc. Thesis: American options in the binomial model
-This repository contains my Bachelor's thesis in Theoretical Physics completed at University of Helsinki (in coordination with the Mathematics Department and Physics Department). This thesis focused on Financial Mathematics. Specifically, it handled American options in the binomial model (binomial asset pricing model).
+This repository contains my Bachelor's thesis in Theoretical Physics completed at University of Helsinki (in coordination with the Mathematics Department and Physics Department). This thesis focused on Financial Mathematics. Specifically, the thesis investigated American options in the binomial model (binomial asset pricing model).
 
 ## Overview
 * **Author:** Emil Miska Marius Törmi (Miska Törmi)
