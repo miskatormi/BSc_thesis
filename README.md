@@ -21,6 +21,6 @@ This thesis establishes a formal definition for options and proves a central the
 ## Content
 [Click here to read the full B.Sc. Thesis (PDF)](./thesis_Miska_Tormi.pdf)
 
-*Note: The Python Program in the appendix of this thesis can be found here:*
+*Note: The Python program in the appendix of this thesis can be found here:*
 
 [Click here to see the Python Program used in this thesis](./code.py)
