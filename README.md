@@ -5,6 +5,7 @@ This repository contains my Bachelor's thesis in Theoretical Physics completed a
 * **Author:** Emil Miska Marius Törmi (Miska Törmi)
 * **Degree:** Bachelor of Science (B.Sc.) in Physics
 * **Grade:** 5/5 (Excellent)
+* **Evaluation Date:** June 12, 2026
 * **Topic:** Financial Mathematics & Theoretical Physics
 * **Affiliation:** University of Helsinki | Department of Physics, in coordination with the Department of Mathematics
 
