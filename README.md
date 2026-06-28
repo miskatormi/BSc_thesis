@@ -7,7 +7,7 @@ This repository contains my Bachelor's thesis in Theoretical Physics completed a
 * **Grade:** 5/5 (Excellent)
 * **Evaluation Date:** June 12, 2026
 * **Topic:** Financial Mathematics & Theoretical Physics
-* **Affiliation:** University of Helsinki | Department of Physics, in coordination with the Department of Mathematics
+* **Affiliation:** University of Helsinki | Department of Physics, in coordination with the Department of Mathematics and Statistics
 
 ## Abstract 
 *Note: This abstract was originally written in Finnish and for this Readme translated into English. (The original abstract can be found within the PDF file)*
